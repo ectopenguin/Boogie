@@ -10,7 +10,7 @@ Best of all, no need to disassemble your painstakingly squared frame, as I've cr
 
 Enjoy the Boogie!
 
-**Few Notes:**
+**# A Few Notes:**
 * Hex-zero bumps out the panels 3mm from a stock v0. This extra space is necessary for the fan rotation.
 * I use SlideSwipe for my bed probe. I have not tested this with ZeroClick.
 * I'm using the standard DragonBurner (not the Hex-Zero varient which I believe is lifted a few mm).
@@ -18,7 +18,7 @@ Enjoy the Boogie!
 * When in fan mode, you'll have to limit the low end of x to about -5 or maybe -4 to prevent nozzle from colliding.
     * Can either limit this in config, or can make sure that all activities involving this area (maybe bed probing etc) are done prior to engaging fan mode.
 
-**Bill of Materials (BOM)**
+**# Bill of Materials (BOM)**
 | Qty | Item | Notes |
 | --- | --- | --- |
 | 8 | 3x6 magnets |
