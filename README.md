@@ -28,13 +28,13 @@ Enjoy the Boogie!
 | 8 | 3x6 magnets |
 | 12 | M2 nuts |
 | 2 | M2x4 SHCS | To secure the servo horn. Can likely use 6mm if you use a spacer |
-| 4 | M2x6 SHCS |
-| 6 | M2x8 SHCS |
-| 1 | M5x10 BHCS |
+| 4 | M2x6 SHCS | To secure bottom mounts to frame |
+| 6 | M2x8 SHCS | To secure top mounts to frame and servo to top rear mount |
+| 1 | M5x10 BHCS | For the front mount, goes through bearing |
 | 8 | M3x35 BHCS | 32-33mm would be better, but I've got no bolt cutters |
 | 8 | M3 nuts | For use as spacer, no need if able to acquire shorter screws |
-| 8 | M3x5x4 heat set inserts |
-| 1 | MR85zz bearing |
+| 8 | M3x5x4 heat set inserts | For the fan mount to secure fans |
+| 1 | MR85zz bearing | Press fit into the fan mount |
 | 1 | MG90s servo with horn |
 | 2 | 36mm x 28 mm fans | I'm using Delta FFB03612EHNYCL |
 | 1 | Robot Vacuum Filter | Mine measure 130mm long x 40mm wide x 8mm tall which I've cut to length |
