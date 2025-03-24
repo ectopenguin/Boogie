@@ -15,7 +15,9 @@ Enjoy the Boogie!
 **A Few Notes:**
 * Hex-zero bumps out the panels 3mm from a stock v0. This extra space is necessary for the fan rotation.
 * I use SlideSwipe for my bed probe. I have not tested this with ZeroClick.
-* I'm using the standard DragonBurner (not the Hex-Zero varient which I believe is lifted a few mm).
+* I built my Hex-zero awhile ago. If you've built yours more recently, some things may have changed. Such as:
+   * I'm using the standard DragonBurner (not the Hex-Zero varient which I believe is lifted a few mm).
+   * I'm using the standard bed, not the newer manta ray. Not sure of clearance with the newer version of the bed.
 * Extreme left tilting of bed will likely cause some contact between bed and Boogie.
 * When in fan mode, you'll have to limit the low end of x to about -5 or maybe -4 to prevent nozzle from colliding.
     * Can either limit this in config, or can make sure that all activities involving this area (maybe bed probing etc) are done prior to engaging fan mode.
