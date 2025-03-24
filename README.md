@@ -10,6 +10,8 @@ Best of all, no need to disassemble your painstakingly squared frame, as I've cr
 
 Enjoy the Boogie!
 
+<br/><br/>
+
 **A Few Notes:**
 * Hex-zero bumps out the panels 3mm from a stock v0. This extra space is necessary for the fan rotation.
 * I use SlideSwipe for my bed probe. I have not tested this with ZeroClick.
@@ -17,6 +19,8 @@ Enjoy the Boogie!
 * Extreme left tilting of bed will likely cause some contact between bed and Boogie.
 * When in fan mode, you'll have to limit the low end of x to about -5 or maybe -4 to prevent nozzle from colliding.
     * Can either limit this in config, or can make sure that all activities involving this area (maybe bed probing etc) are done prior to engaging fan mode.
+
+<br/><br/>
 
 **Bill of Materials (BOM)**
 | Qty | Item | Notes |
@@ -37,9 +41,9 @@ Enjoy the Boogie!
 | ~80mm | 6mm wide x 1mm thick foam tape |
 | Misc | Wiring, possibly a buck converter depending on your setup |
 
-
-
-
+<br/><br/>
+<br/><br/>
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="nofollow">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
 
 
 
