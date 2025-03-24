@@ -19,22 +19,23 @@ Few Notes:
 --Can either limit this in config, or can make sure that all activities involving this area (maybe bed probing etc) are done prior to engaging fan mode.
 
 Bill of Materials (BOM)
-8 - 3x6 magnets
-12 - M2 nuts
-2 - M2x4 SHCS (to secure the servo horn. Can likely use 6mm if you use a spacer)
-4 - M2x6 SHCS
-6 - M2x8 SHCS
-1 - M5x10 BHCS
-8 - M3x35 BHCS (32-33mm would be better, but I've got no bolt cutters)
-8 - M3 nuts (for use as spacer, no need if able to acquire shorter screws)
-8 - M3x5x4 heat set inserts
-1 - MR85zz bearing
-1 - MG90s servo with horn
-2 - 36mm x 28 mm fans (I'm using Delta FFB03612EHNYCL)
-1 - Robot Vacuum Filter (Mine measure 130mm long x 40mm wide x 8mm tall) cut to length
-About 80mm - 6mm wide x 1mm thick foam tape
-Wiring stuff and possibly a buck converter depending on your setup
-
+| Qty | Item | Notes |
+| --- | --- | --- |
+| 8 | 3x6 magnets |
+| 12 | M2 nuts |
+| 2 | M2x4 SHCS | To secure the servo horn. Can likely use 6mm if you use a spacer |
+| 4 | M2x6 SHCS |
+| 6 | M2x8 SHCS |
+| 1 | M5x10 BHCS |
+| 8 | M3x35 BHCS | 32-33mm would be better, but I've got no bolt cutters |
+| 8 | M3 nuts | For use as spacer, no need if able to acquire shorter screws |
+| 8 | M3x5x4 heat set inserts |
+| 1 | MR85zz bearing |
+| 1 | MG90s servo with horn |
+| 2 | 36mm x 28 mm fans | I'm using Delta FFB03612EHNYCL |
+| 1 | Robot Vacuum Filter | Mine measure 130mm long x 40mm wide x 8mm tall which I've cut to length |
+| ~80mm | 6mm wide x 1mm thick foam tape |
+| Misc | Wiring, possibly a buck converter depending on your setup |
 
 
 
