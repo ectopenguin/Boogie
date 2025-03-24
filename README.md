@@ -1,7 +1,7 @@
 # Boogie
 Carbon/HEPA filter and sheet cooling in a tiny package!
 
-![boogie](./images/boogie.gif)
+![boogie](https://github.com/user-attachments/assets/ebb13ccf-2c6f-40a4-a78b-2cd0d06f4a7f)
 
 It started as a dream... In my tiny printer, I wanted filtration and sheet cooling.
 Using parts from other abandoned dreams and amateur but slowly improving CAD skills, this monstrosity was borne into the world.
