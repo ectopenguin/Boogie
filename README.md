@@ -38,7 +38,7 @@ Enjoy the Boogie!
 | 1 | MG90s servo with horn |
 | 2 | 36mm x 28 mm fans | I'm using Delta FFB03612EHNYCL |
 | 1 | Robot Vacuum Filter | Mine measure 130mm long x 40mm wide x 8mm tall which I've cut to length |
-| ~80mm | 6mm wide x 1mm thick foam tape |
+| ~80mm | 6mm wide x 1mm thick foam tape | Goes on the rear of filter (left on the photo) to improve fan seal to filter |
 | Misc | Wiring, possibly a buck converter depending on your setup |
 
 <br/><br/>
